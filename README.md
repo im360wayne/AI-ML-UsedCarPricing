@@ -73,3 +73,10 @@ For this application, an industry standard model called CRISP-DM is used.  This 
     <img src = images/CRISP-DM-Methodology.png width = 80%/>
 </center>
 
+
+## Outline of Project
+
+* Jupyter Notebook:  <a href="UsedCarPricing.ipynb">UsedCarPricing.ipynb</a>
+* Download Data:  <a href="data/vehicles.csv">vehicles.csv</a>
+* Final Report:  <a href="11.1 What Drives the Price of a Car.docx">11.1 What Drives the Price of a Car.docx</a>
+
