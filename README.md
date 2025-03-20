@@ -61,6 +61,9 @@ The complete list of sorted factors in priority order is available for download 
 **Action Items and Next Steps**
 1. The dealer should review the sorted factors list and purchase cars with these attributes. 
 2. As the recommendations are only as good as the data used, dealer group to continuously  provide updated sales data for re-evaluation. 
+3. Further tune model parameters such as trying fit_intercept true/false for linear regression.
+4. Further limit the outliers in the model to see if there is a more accurate prediction within a more limited range. 
+
 ## Methodology: CRISP-DM Framework
 For this application, an industry standard model called CRISP-DM is used.  This process provides a framework for working through a data problem.  
 
